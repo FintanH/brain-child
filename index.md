@@ -2,12 +2,17 @@
 tags: [home]
 ---
 
-# Neuron Template
+# Brain Child
 
-You are viewing a template site, generated from [neuron-template](https://github.com/srid/neuron-template) and published by [neuron](https://neuron.zettel.page/). [GitHub Pages](https://pages.github.com/) is used to automatically publish this site every time the underlying Git repository gets updated.
+Welcome to Fintan's Brain Child. When a Brain loves a Thought very much they
+decide to produce a child. These children live in harmony and play with each
+other here.
 
-Get started by reading [[[README]]].
+## Acknowledgments
 
-Other pages on this zettelkasten (this demonstrates how to use [link queries](https://neuron.zettel.page/link-query.html)):
+Thanks to [srid](https://github.com/srid/neuron-template) for providing
+[neuron](https://neuron.zettel.page/), making this possible.
 
-[[[z:zettels?tag=other]]]
+## Recursion
+
+[[[z:zettels?tag=recursion]]]
