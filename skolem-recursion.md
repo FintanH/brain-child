@@ -1,4 +1,5 @@
 ---
+title: Skolem & Recursion
 date: 2020-11-14T15:44
 tags: [recursion, history, primitive-recursion, recursion-schemes]
 ---

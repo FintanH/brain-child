@@ -1,4 +1,5 @@
 ---
+title: Referential Transparency
 date: 2020-11-14T15:51
 tags: [functional-programming, expressions, haskell]
 ---
