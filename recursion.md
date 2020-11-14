@@ -18,13 +18,13 @@ should pass smaller arguments in the next iteration. Finally -- to also aid in
 termination -- there should be a **base case** for which the function terminates
 on.
 
-Our canonical cases are the **factorial** and **fibonacci** functions:
+Our canonical cases are the **factorial** and **[[fibonacci]]** functions:
 
 ```hs
 -- | ∀ n ∈ ℕ
-fib 0 = 1
 fib 1 = 1
-fib n = fib (n - 2) (n - 1)
+fib 2 = 1
+fib n = fib (n - 1) (n - 2)
 
 -- | ∀ n ∈ ℕ
 fac 0 = 1
