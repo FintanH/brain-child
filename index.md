@@ -16,3 +16,7 @@ Thanks to [srid](https://github.com/srid/neuron-template) for providing
 ## Recursion
 
 [[[z:zettels?tag=recursion]]]
+
+## Nix
+
+[[[z:zettels?tag=nix]]]
