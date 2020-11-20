@@ -12,9 +12,15 @@ OSError: [Errno 28] No space left on device
 warning: error(s) occurred while switching to the new configuration
 ```
 
-I did some spelunking on GitHub to eventually find this [issue comment](issue)
+I did some spelunking on GitHub to eventually find this [issue comment][issue]
 which boiled down to: delete past generations. I had accrued a lot of stale
 generations that I didn't need to rollback for and so this gave me back some of
 my `/boot` real estate.
+
+The command that I found was:
+
+```
+sudo nix-collect-garbage --delete-older-than 60d
+```
 
 [issue]: https://github.com/NixOS/nixpkgs/issues/23926#issuecomment-347745220
