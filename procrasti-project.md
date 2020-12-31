@@ -1,5 +1,5 @@
 ---
-Title: Procrasti-Project
+title: Procrasti-Project
 date: 2020-12-31T14:22
 tags: [procrastination, process, workflow, project]
 ---
