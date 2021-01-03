@@ -1,7 +1,7 @@
 ---
 title: Make Room for a Pause
 date: 2021-01-02T13:54
-tags: [control the clock, language is leadership, teamwork, psychology, bluework, psychological safety, trust]
+tags: [control-the-clock, language-is-leadership, teamwork, psychology, bluework, psychological-safety, trust]
 ---
 
 We should make room for pauses when working. This allows us to stop and think

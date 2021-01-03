@@ -1,7 +1,7 @@
 ---
 title: Components of Giving a Pause
 date: 2021-01-02T13:57
-tags: [control the clock, language is leadership, teamwork, psychology, bluework, psychological safety, trust]
+tags: [control-the-clock, language-is-leadership, teamwork, psychology, bluework, psychological-safety, trust]
 ---
 
 The components that give way to giving a pause are:

@@ -1,7 +1,7 @@
 ---
 title: Pre-Plan a Pause
 date: 2021-01-02T14:05
-tags: [control the clock, language is leadership, teamwork, psychology, bluework, psychological safety, trust]
+tags: [control-the-clock, language-is-leadership, teamwork, psychology, bluework, psychological-safety, trust]
 ---
 
 In [Components of Giving a Pause][[components-of-pause]], one of the components

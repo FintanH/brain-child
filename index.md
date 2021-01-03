@@ -23,8 +23,8 @@ Thanks to [srid](https://github.com/srid/neuron-template) for providing
 
 ## Language is Leadership
 
-[[[z:zettels?tag=language is leadership]]]
+[[[z:zettels?tag=language-is-leadership]]]
 
 ### Control the Clock
 
-[[[z:zettels?tag=control the clock]]]
+[[[z:zettels?tag=control-the-clock]]]
